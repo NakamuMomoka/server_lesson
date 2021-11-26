@@ -9,6 +9,6 @@ command
  - mv
  - rm
  - cat
- - >
- - >>
+ - \>
+ - \>>
  - vi
